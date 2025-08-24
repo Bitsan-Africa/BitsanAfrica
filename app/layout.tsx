@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   keywords: 'accommodation, hostels, hotels, wifi, internet, real estate, property, bitsan',
   authors: [{ name: 'Bitsan' }],
   icons: {
-    icon: '/favicon.svg',
+    icon: '/images/logo2.png',
   },
   openGraph: {
     title: 'Bitsan - Comfort, connectivity, and property solutions',
